@@ -1,0 +1,6 @@
+C:/Users/Administrator/Desktop/pro1-boot-v2.0/build/Debug/CMakeFiles/1.dir
+C:/Users/Administrator/Desktop/pro1-boot-v2.0/build/Debug/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/Desktop/pro1-boot-v2.0/build/Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Administrator/Desktop/pro1-boot-v2.0/build/Debug/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
+C:/Users/Administrator/Desktop/pro1-boot-v2.0/build/Debug/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/Desktop/pro1-boot-v2.0/build/Debug/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
